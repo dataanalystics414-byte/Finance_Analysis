@@ -42,8 +42,14 @@ Developed an interactive **Finance Analytics Dashboard** in **Power BI** to anal
 
 ## 📷 Dashboard Preview
 
-(<img width="1516" height="798" alt="Screenshot 2026-06-22 110446" src="https://github.com/user-attachments/assets/17338bd9-0e39-4061-8218-432bce08408d" />
-)
+Finance Analysis
+<img width="1516" height="798" alt="Screenshot 2026-06-22 110446" src="https://github.com/user-attachments/assets/17338bd9-0e39-4061-8218-432bce08408d" />
+
+
+
+Transactions
+<img width="1385" height="728" alt="image" src="https://github.com/user-attachments/assets/7821a1f6-3386-4de9-af17-c9de8f44c742" />
+
 ```
 
 ---
